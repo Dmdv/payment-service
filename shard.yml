@@ -1,0 +1,13 @@
+name: payment-service
+version: 0.1.0
+
+authors:
+  - Dmitry <dmitry@centralex.io>
+
+targets:
+  payment-service:
+    main: src/payment-service.cr
+
+crystal: 1.2.2
+
+license: MIT
